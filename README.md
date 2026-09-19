@@ -2,7 +2,7 @@
 
 # Sogo云VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/sogo) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/sogo) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 Sogo云既有自研客户端，也提供可导入主流代理软件的机场订阅，常见叫法包括“Sogo云 VPN”“Sogo云梯子”和“Sogo云机场”。通用订阅包含多地区代理节点，页面同时整理周期套餐和一次性流量方案，可先按客户端偏好和实际用量选择。
 

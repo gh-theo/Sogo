@@ -110,6 +110,6 @@ Sogo云既有自研客户端，也提供可导入主流代理软件的机场订�
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
 
-[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
+[机场优惠码汇总](https://github.com/jcsift/airport-coupons) · [机场卡片汇总](https://github.com/jcsift/airport-cards)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
